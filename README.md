@@ -1,4 +1,4 @@
-# Ms_Notificaciones_pyhon
+# Ms_Notificaciones_python
 micro servicios de notificaciones realizado en python notificacion sms y email
 
 [![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Plantilla-de-repositorio/readme?useReferer)](https://github.com/erick880709/Ms_Notificaciones_pyhon/)
