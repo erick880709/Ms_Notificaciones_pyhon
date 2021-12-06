@@ -8,7 +8,7 @@ Esta es una plantilla basada en los estándares de la Guía de publicacion de he
 
 ## La plantilla empieza aquí 👇
 
-<h1 align="center"> Ms_Notificaciones_pyhon</h1>
+<h1 align="center"> Ms_Notificaciones_python</h1>
 <p align="center"> Logo e imagen o gif de la interfaz principal de la herramienta</p>
 <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
 
