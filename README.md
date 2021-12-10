@@ -21,14 +21,7 @@ Without these variables it is not possible to send SMS and email
 
 - [Configuracion variables](#badges-o-escudos)
 - [importaciones](#descripción-y-contexto)
-- [Guía de usuario](#guía-de-usuario)
-- [Guía de instalación](#guía-de-instalación)
-- [Cómo contribuir](#cómo-contribuir)
-- [Código de conducta](#código-de-conducta)
-- [Autor/es](#autores)
-- [Información adicional](#información-adicional)
-- [Licencia](#licencia)
-- [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
+
 
 ## Badges o escudos
 ---
